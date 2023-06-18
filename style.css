@@ -1,0 +1,19 @@
+body{
+    
+    align-items: center;
+    font-size: xx-large;
+    margin:0;
+    padding:0;
+    background-image: linear-gradient(orange,white,green);
+    background-attachment: fixed;  
+      
+}
+#countdown{
+    display: flex;
+    justify-content: center;
+    padding:10%;
+    color:rgb(29, 25, 252) ;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 500%;
+}
